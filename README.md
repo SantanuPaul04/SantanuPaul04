@@ -3,7 +3,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanupaul04&label=Profile%20views&color=0e75b6&style=flat" alt="santanupaul04" /> </p>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/c1e33046-465d-430b-b313-3d94c8b8a621"> 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif"> 
 
 
 - 🌱 I’m currently learning **React , Java 🧑‍💻**
