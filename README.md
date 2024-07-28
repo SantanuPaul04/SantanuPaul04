@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Santanu Paul</h1>
 <h3 align="center">A Passionate Full Stack developer from India 💻</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanupaul04&label=Profile%20views&color=0e75b6&style=flat" alt="santanupaul04" /> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/c1e33046-465d-430b-b313-3d94c8b8a621"> 
+
 
 - 🌱 I’m currently learning **React , Java 🧑‍💻**
 
