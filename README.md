@@ -13,6 +13,8 @@
 - 📫 How to reach me **paulsantanu968@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1pME9BbyarcfGjMsqmM3-tPJPx43moWaq/view?usp=drive_link)
+  
+- 🚀 Check out my Personal Portfolio: [Personal-Portfolio](https://personal-portfolio-by-santanupaul.netlify.app/)
 
 - ⚡ Fun fact **I think I am Funny 😉**
 
